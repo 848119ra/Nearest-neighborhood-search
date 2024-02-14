@@ -1,0 +1,2 @@
+# Nearest-neighborhood-search
+ We have a file that contains 400,000 English terms and their 50-dimensional embedding vectors. The file word_search.py returns the three most similar words to the given word. For example if the given word is: king, the result is: king prince queen  The file word_analogy.py, does the search of analogy, for example, “king is to queen as prince is to X” - what would be X? If the words king queen prince, are given to it, then will return: princess
